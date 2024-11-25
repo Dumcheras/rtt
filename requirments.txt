@@ -1,0 +1,11 @@
+mssql-django
+python-dotenv
+djangorestframework
+pillow
+django-filter
+djangorestframework-simplejwt
+django-cors-headers
+requests
+drf-yasg
+redis
+coverage
